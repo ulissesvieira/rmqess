@@ -1,0 +1,6 @@
+ccm-settings:
+   user: ccm-dev
+   password: dev123
+   virtual-host: ccm-dev-vhost
+   host: localhost
+   port: 5672
